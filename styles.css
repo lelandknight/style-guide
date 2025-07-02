@@ -1,0 +1,143 @@
+
+/* Body */
+body {
+    background-color: slategray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2 {
+    padding-left: 5px;
+    font-size: 30px;
+}
+
+p {
+    font-size: 18px;
+    padding-left: 5px;
+}
+
+section {
+    border: solid 1px black;
+    margin: 10px auto;
+    width: 90%;
+}
+
+/* Header */
+header {
+    text-align: center;
+    font-size: 32px;
+}
+
+/* Colors */
+.colors {
+    display: block;
+}
+
+.color_options {
+    display: block;
+    text-align: center;
+    font-size: 20px;
+}
+
+#dull {
+    border: 1px solid #DD8E3F;
+    background-color: #DD8E3F;
+    display: inline-block;
+    margin: 5px;
+    width: 190px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+#compliment {
+    border: 1px solid #3F8EDD;
+    background-color: #3F8EDD;
+    display: inline-block;
+    margin: 5px;
+    width: 190px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#darker {
+    border: 1px solid #C67523;
+    background-color: #C67523;
+    display: inline-block;
+    margin: 5px;
+    width: 190px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+#lighter {
+    border: 1px solid #ECA539;
+    background-color: #ECA539;
+    display: inline-block;
+    margin: 5px;
+    width: 190px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+/* Fonts */
+.fonts {
+    border: solid 1px black;
+}
+
+.fonts h3 {
+    text-decoration: underline;
+    padding-left: 5px;
+}
+
+.fonts p {
+    font-size: 20px;
+}
+
+.p-bold {
+    font-weight: bold;
+}
+
+.p-italic {
+    font-style: italic;
+}
+
+.first-font {
+    font-family: 'Outfit', Arial, Helvetica, sans-serif;
+}
+
+.second-font {
+    font-family: 'Libertinus Math';
+}
+
+.third-font {
+    font-family: 'PT Serif';
+}
+
+/* Styles */
+.styles {
+    border: solid 1px black;
+}
+
+#fake-h1 {
+    font-weight: 700;
+    font-size: 32px;
+    font-family: Verdana;
+}
+
+#fake-h2 {
+    font-weight: 500;
+    font-size: 30px;
+    font-family: 'Outfit';
+}
+
+#fake-p {
+    font-weight: 400;
+    font-size: 18px;
+    font-family: 'PT Serif';
+}
+
+/* Spacing */
+.spacing {
+    border: solid 1px black;
+}
